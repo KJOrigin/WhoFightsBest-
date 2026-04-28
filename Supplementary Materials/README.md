@@ -1,32 +1,63 @@
 ## 📎 Supplementary Materials
-<div align="center">
-  <img src="Pictures/tab1.png" alt="tab1" width="50%" border="0">
-</div>
 
-**Table1**: Coefficients of the mixed-effects model capturing the relationship between inference accuracy and personality attributes.
-<div align="center">
-  <img src="Pictures/tab2.png" alt="tab2" width="30%" border="0">
-</div>
-
-**Table2**: Human-evaluated Personality Adherence Scores (PAS) for each model, where higher scores indicate stronger consistency between model debate behaviors and the intended personality descriptions.
-<div align="center">
-  <img src="Pictures/tab3.png" alt="tab3" width="50%" border="0">
-</div>
-
-**Table3**: Performance comparison of the top three MBTI personality prompts (ISTJ, INTJ, and ISTP) across three models. Results are averaged over three MBTI prompts. Avg. denotes the average accuracy across the three models, with higher values indicating better performance.
+# Effect Sizes of MBTI Personality Pairings on Performance Across Models 
 
 <div align="center">
-  <img src="Pictures/fig12.png" alt="fig12" width="60%" border="0">
+  <img src="Supplementary Materials/Pictures/Figure10/figure10_GLM-4-9B-0414.png" alt="tab1" width="50%" border="0">
 </div>
 
-**Figure1**: Heatmap of the correlation between the mean accuracy of MBTI personality pairs across 700 questions for four representative models.
+**Figure1**: All MBTI personality pairs ranked by their effect sizes on performance change for GLM-4-9B relative to the control setting.
+
 <div align="center">
-  <img src="Pictures/fig10.png" alt="fig10" width="90%" border="0">
+  <img src="Supplementary Materials/Pictures/Figure10/figure10_Llama-3.1-8B.png" alt="tab2" width="30%" border="0">
 </div>
 
-**Figure2**: All MBTI personality pairs ranked by their effect sizes on performance change relative to the control setting, with models exhibiting low PAS excluded from the analysis.
+**Figure2**: All MBTI personality pairs ranked by their effect sizes on performance change for LLaMA-3.1-8B relative to the control setting.
+
 <div align="center">
-  <img src="Pictures/fig11.png" alt="fig11" width="70%" border="0">
+  <img src="Supplementary Materials/Pictures/Figure10/figure10_Llama-3.1-70B.png" alt="tab2" width="30%" border="0">
 </div>
 
-**Figure3**: Heatmap of accuracy differences capturing role asymmetry within MBTI personality pairs across all models, where each cell shows the performance difference between a given proponent-opponent assignment and its reversed role configuration.
+**Figure3**: All MBTI personality pairs ranked by their effect sizes on performance change for LLaMA-3.1-70B relative to the control setting.
+
+<div align="center">
+  <img src="Supplementary Materials/Pictures/Figure10/figure10_Qwen2.5-7B.png" alt="tab2" width="30%" border="0">
+</div>
+
+**Figure4**: All MBTI personality pairs ranked by their effect sizes on performance change for Qwen2.5-7B relative to the control setting.
+
+<div align="center">
+  <img src="Supplementary Materials/Pictures/Figure10/figure10_Qwen2.5-14B.png" alt="tab2" width="30%" border="0">
+</div>
+
+**Figure5**: All MBTI personality pairs ranked by their effect sizes on performance change for Qwen2.5-14B relative to the control setting.
+
+<div align="center">
+  <img src="Supplementary Materials/Pictures/Figure10/figure10_Qwen2.5-32B.png" alt="tab2" width="30%" border="0">
+</div>
+
+**Figure6**: All MBTI personality pairs ranked by their effect sizes on performance change for Qwen2.5-32B relative to the control setting.
+
+<div align="center">
+  <img src="Supplementary Materials/Pictures/Figure10/figure10_Qwen3-0.6B.png" alt="tab2" width="30%" border="0">
+</div>
+
+**Figure7**: All MBTI personality pairs ranked by their effect sizes on performance change for Qwen3-0.6B relative to the control setting.
+
+<div align="center">
+  <img src="Supplementary Materials/Pictures/Figure10/figure10_Qwen3-1.7B.png" alt="tab2" width="30%" border="0">
+</div>
+
+**Figure8**: All MBTI personality pairs ranked by their effect sizes on performance change for Qwen3-1.7B relative to the control setting.
+
+<div align="center">
+  <img src="Supplementary Materials/Pictures/Figure10/figure10_Qwen3-4B.png" alt="tab2" width="30%" border="0">
+</div>
+
+**Figure9**: All MBTI personality pairs ranked by their effect sizes on performance change for Qwen3-4B relative to the control setting.
+
+<div align="center">
+  <img src="Supplementary Materials/Pictures/Figure10/figure10_Qwen3-8B.png" alt="tab2" width="30%" border="0">
+</div>
+
+**Figure10**: All MBTI personality pairs ranked by their effect sizes on performance change for Qwen3-8B relative to the control setting.
