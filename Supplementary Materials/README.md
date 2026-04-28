@@ -8,9 +8,15 @@ Supplementary Materials/Pictures/Figure10
 ```
 
 ## Domain-Level Effects of MBTI Personality Pairings on Debate Performance
-
 The detailed results for **“Domain-Level Effects of MBTI Personality Pairings on Debate Performance”** are provided in the Supplementary Materials. Please refer to the PDF files located in:
 
 ```
 Supplementary Materials/Pictures/Figure7
+```
+
+## Performance Asymmetry Under Role Reversal in MBTI Pairings
+The detailed results for **“Performance Asymmetry Under Role Reversal in MBTI Pairings”** are provided in the Supplementary Materials. Please refer to the PDF files located in:
+
+```
+Supplementary Materials/Pictures/Figure_zf
 ```
